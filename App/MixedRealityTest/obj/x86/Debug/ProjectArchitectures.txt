@@ -1,0 +1,1 @@
+C:\Users\hayashikentaro\Documents\MixedRealityTest\App\MixedRealityTest\MixedRealityTest.csproj;x86
